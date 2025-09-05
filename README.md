@@ -4,7 +4,7 @@
 
 It's a private, on-device digital companion to help you monitor progressive overload, track body measurements, and stay consistent with your diet and hydration.
 
-![Aegis Dashboard](screenshots/dashboard.png)
+
 
 ## ✨ Key Features
 
